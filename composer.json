@@ -1,5 +1,5 @@
 {
-	"name": "philippfrenzel/yii2fullcalendar",
+	"name": "sme1nyk/yii2fullcalendarfix",
 	"description": "Yii2 fullcalendar Widgets",
 	"keywords": ["yii2", "fullcalendar","widget"],
 	"homepage": "http://www.frenzel.net/",
@@ -14,14 +14,14 @@
 		}
 	],
 	"support": {
-		"source": "https://github.com/philippfrenzel/yii2fullcalendar"
+		"source": "https://github.com/sme1nik/yii2fullcalendarfix"
 	},
 	"minimum-stability": "stable",
 	"require": {
 		"yiisoft/yii2": "*",
 		"yiisoft/yii-jquery" : "*",
 		"bower-asset/fullcalendar": "4.0.2",
-		"bower-asset/fullcalendar-scheduler" : "4.0.1@stable"
+		"bower-asset/fullcalendar-scheduler" : "<4.0.0"
 	},
 	"require-dev": {
 		"codeception/codeception": "*"
